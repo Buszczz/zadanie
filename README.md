@@ -23,3 +23,7 @@ Aplikacja mobilna stworzona w celu nauki:
 - `android/` – konfiguracja Android
 - `ios/` – konfiguracja iOS
 - `pubspec.yaml` – zależności projektu
+
+## UPDATY
+
+- *27.02.2026* - rozpoczęcie budowy apki pod API i wdrażanie pomysłu apki pogodowej
