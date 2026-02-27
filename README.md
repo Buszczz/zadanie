@@ -27,3 +27,5 @@ Aplikacja mobilna stworzona w celu nauki:
 ## 📢 AKTUALIZACJE
 
 - *27.02.2026* - rozpoczęcie budowy apki pod API i wdrażanie pomysłu apki pogodowej
+## Screenshot aplikacji
+![Screenshot aplikacji](assets/images/screenshot.png)
